@@ -1,0 +1,36 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Dota Quiz</string>
+    <string name="name">Name</string>
+    <string name="editName">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="first_question"> First question: </string>
+    <string name="questionOne"> What item can fully(100%) counter miss chance since 7.07 patch? </string>
+    <string name="second_question"> Second question: </string>
+    <string name="questionTwo"> Which spell/s give/s an evasion? </string>
+    <string name="hint"> Hint </string>
+    <string name="third_question"> Third question: </string>
+    <string name="questionThree"> What is the name of that hero? </string>
+    <string name="fourth_question"> Fourth question: </string>
+    <string name="questionFour"> Select STRONG dispel/s </string>
+    <string name="fifth_question"> Fifth question: </string>
+    <string name="questionFive">" What is the (Full and Correct)name of that hero? "</string>
+    <string name="hintName"> Hero Name: </string>
+    <string name="sixth_question"> Sixth question: </string>
+    <string name="questionSix"> What is the name of that spell? </string>
+    <string name="seventh_question"> Seventh question: </string>
+    <string name="questionSeven"> What spell/s can MINI STUN? </string>
+    <string name="eighth_question"> Eight question: </string>
+    <string name="questionEight"> What type of damage fully ignores any damage blocks and resistance? </string>
+    <string name="damageType"> Damage type: </string>
+    <string name="ninth_question"> Ninth question: </string>
+    <string name="questionNine"> What ability makes friendly buildings and creeps become impervious to damage for a short duration? </string>
+    <string name="abilityHint"> Ability Name: </string>
+    <string name="tenth_question"> Tenth question: </string>
+    <string name="questionTen"> Choose the item that cannot be destroyed and drops when its wielder dies </string>
+    <string name="eleventh_question"> Eleventh question: </string>
+    <string name="questionEleven"> What spell/s can deal damage to buildings? </string>
+    <string name="results"> Results </string>
+    <string name="reset"> Reset </string>
+    <string name="score"> Score: </string>
+    <string name="wrong"> Wrong answers: </string>
+    <string name="maxScore" translatable="false"> /20 </string>
+</resources>

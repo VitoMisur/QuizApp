@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Dota Quiz</string>
+    <string name="name">Имя</string>
+    <string name="editName">Имя: <xliff:g id="name" example="Вася">%s</xliff:g></string>
+    <string name="first_question">Первый вопрос:</string>
+    <string name="questionOne">Какой предмет на 100% противостоит шансу промаха начиная с патча 7.07?</string>
+    <string name="second_question">Второй вопрос:</string>
+    <string name="questionTwo">Какая/ие способность/и дает/ют невидимость?</string>
+    <string name="hint">Подсказка</string>
+    <string name="third_question">Третий вопрос:</string>
+    <string name="questionThree">Какого имя персонажа изображенного на картинке?</string>
+    <string name="fourth_question">Четвертый вопрос:</string>
+    <string name="questionFour">"Выберите СИЛЬНУЮ способность/и рассеивания "</string>
+    <string name="fifth_question">Пятый вопрос:</string>
+    <string name="questionFive">Какого полное имя данного персонажа?</string>
+    <string name="hintName">Имя персонажа:</string>
+    <string name="sixth_question">Шестой вопрос:</string>
+    <string name="questionSix">Какого имя этой способности?</string>
+    <string name="seventh_question">Седьмой вопрос:</string>
+    <string name="questionSeven">Какая/ие способность/и имеют КРАТКОЕ ОГЛУШЕНИЕ?</string>
+    <string name="eighth_question">Восьмой вопрос:</string>
+    <string name="questionEight">Какой вид урона целиком игнорирует любое сопротивление урону и блокаторы урона?</string>
+    <string name="damageType">Тип урона:</string>
+    <string name="ninth_question">Девятый вопрос:</string>
+    <string name="questionNine">Какая способность дает дружественным крипам и зданиям неуязвимость?</string>
+    <string name="abilityHint">Название способности:</string>
+    <string name="tenth_question">Десятый вопрос:</string>
+    <string name="questionTen">Выбери предмет который невозможно сломать и который выпадает при смерти своего владельца?</string>
+    <string name="eleventh_question">Одиннадцатый вопрос:</string>
+    <string name="questionEleven">Какая/ие из данных способностей могут наносить урон зданиям?</string>
+    <string name="results">Результат</string>
+    <string name="reset">Обновить</string>
+    <string name="score">Счет:</string>
+    <string name="wrong">Неправильных ответов:</string>
+</resources>
