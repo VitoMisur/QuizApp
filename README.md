@@ -1,2 +1,2 @@
-"#QuizApp" 
-Made as a project for Udacity Android Basics Nanodegree
+#QuizApp 
+3rd project for Udacity Android Basics Nanodegree
